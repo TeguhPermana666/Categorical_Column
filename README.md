@@ -1,0 +1,2 @@
+# Categorical_Column
+Categorical_Column adalah sebuah data yang berisikan data yang bertipekan object jika di di teksi dengan dtype pada python namun data tersebut tidak dapat di kalkulasi atau sulit dikenali oleh model ML dalam mentrain sebuah data hal hasil menghasilkan sebuah data yang underfitting, yang mana model ditunjukan tidak memhami atau tidak mengenal sebuah data maka dari itu categorical _column tersebut dapat di transformasikan kedalam numeric column sehingga dapat di kalkulasi, data daapt dihutng dengan beberapa cara yang dilampirkan pada text.py
